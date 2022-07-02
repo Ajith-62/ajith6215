@@ -1,0 +1,580 @@
+https://github.com/PinakiRay015/Restaurant/blob/master/index.html
+
+
+1.<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>Document</title>
+    <style>
+        h2{
+            color:#3a5a40;
+            text-transform: capitalize;
+            text-decoration:underline;
+            text-indent: 50px;
+            word-spacing: 50px;
+            line-height: 3;
+            background-image:linear-gradient(120deg,red,yellow,black) ;
+            padding:20px;
+            margin: 20px;
+            border-radius: 20px;
+            
+            box-shadow: 15px 15px 4px 14px brown;
+
+            
+
+        }
+    </style>
+</head>
+<body>
+    <div align="center">
+        <h2>Welcome all</h2>
+        
+    </div>
+    
+</body>
+</html>
+
+
+tr<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>Document</title>
+    <style>
+        h2{
+            color:#3a5a40;
+            text-transform: capitalize;
+            text-decoration:underline;
+            text-indent: 50px;
+            word-spacing: 50px;
+            line-height: 3;
+            background-image:linear-gradient(180deg,red,yellow,black) ;
+            padding:20px;
+            margin: 20px;
+            border-radius: 20px;
+            
+            box-shadow: 15px 15px 4px 14px brown;
+
+            
+
+        }
+    </style>
+</head>
+<body>
+    <div align="center">
+        <h2>Welcome all</h2>
+        
+    </div>
+    
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>Document</title>
+    <style>
+        h2{
+            color:#3a5a40;
+            text-transform: capitalize;
+            text-decoration:underline;
+            text-indent: 50px;
+            word-spacing: 50px;
+            line-height: 3;
+            background-image:linear-gradient(120deg,red,yellow,black) ;
+            padding:20px;
+            margin: 20px;
+            border-radius: 20px;
+            
+            box-shadow: 15px 15px 4px 14px brown;
+
+            
+
+        }
+    </style>
+</head>
+<body>
+    <div align="center">
+        <h2>Welcome all</h2>
+        
+    </div>
+    
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>Document</title>
+    <style>
+        h2{
+            color:#3a5a40;
+            text-transform: capitalize;
+            text-decoration:underline;
+            text-indent: 50px;
+            word-spacing: 50px;
+            line-height: 3;
+            background-image:linear-gradient(180deg,red,yellow,black) ;
+            padding:20px;
+            margin: 20px;
+            border-radius: 20px;
+            
+            box-shadow: 15px 15px 4px 14px brown;
+
+            
+
+        }
+
+
+#mybox{
+            width:200px;
+            height: 200px;
+            background-color: aquamarine;
+            border-radius: 20px;
+            margin:20px;
+            animation-name: anim;
+            animation-duration: 50s;
+            animation-iteration-count: infinite;
+            position: relative;
+
+        }
+        @keyframes anim{
+           20% {background-color: chartreuse; left:0px;top:0px;}
+           50% {background-color:blueviolet; left:200px;top:0px;}
+           70% {background-color:chocolate; left:200px;top:200px;}
+           80% {background-color:darkred; left:0px;top:200px;}
+           100% {background-color:lightskyblue; left:0px;top:0px;}
+
+        }
+    </style>
+</head>
+<body>
+    <div align="center">
+        <h2>Welcome all</h2><br><br>
+        <div align="center" id="mybox">
+            
+        </div>
+        
+    </div>
+    
+</body>
+</html>
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>Document</title>
+    <style>
+        h2{
+            color:#3a5a40;
+            text-transform: capitalize;
+            text-decoration:underline;
+            text-indent: 50px;
+            word-spacing: 50px;
+            line-height: 3;
+            background-image:linear-gradient(120deg,red,yellow,black) ;
+            padding:20px;
+            margin: 20px;
+            border-radius: 20px;
+            
+            box-shadow: 15px 15px 4px 14px brown;
+
+            
+
+        }
+    </style>
+</head>
+<body>
+    <div align="center">
+        <h2>Welcome all</h2>
+        
+    </div>
+    
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>Document</title>
+    <style>
+        h2{
+            color:#3a5a40;
+            text-transform: capitalize;
+            text-decoration:underline;
+            text-indent: 50px;
+            word-spacing: 50px;
+            line-height: 3;
+            background-image:linear-gradient(180deg,red,yellow,black) ;
+            padding:20px;
+            margin: 20px;
+            border-radius: 20px;
+            
+            box-shadow: 15px 15px 4px 14px brown;
+
+            
+
+        }
+    </style>
+</head>
+<body>
+    <div align="center">
+        <h2>Welcome all</h2>
+        
+    </div>
+    
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>Document</title>
+    <style>
+        h2{
+            color:#3a5a40;
+            text-transform: capitalize;
+            text-decoration:underline;
+            text-indent: 50px;
+            word-spacing: 50px;
+            line-height: 3;
+            background-image:linear-gradient(120deg,red,yellow,black) ;
+            padding:20px;
+            margin: 20px;
+            border-radius: 20px;
+            
+            box-shadow: 15px 15px 4px 14px brown;
+
+            
+
+        }
+    </style>
+</head>
+<body>
+    <div align="center">
+        <h2>Welcome all</h2>
+        
+    </div>
+    
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>Document</title>
+    <style>
+        h2{
+            color:#3a5a40;
+            text-transform: capitalize;
+            text-decoration:underline;
+            text-indent: 50px;
+            word-spacing: 50px;
+            line-height: 3;
+            background-image:linear-gradient(180deg,red,yellow,black) ;
+            padding:20px;
+            margin: 20px;
+            border-radius: 20px;
+            
+            box-shadow: 15px 15px 4px 14px brown;
+
+            
+
+        }
+        
+#mybox{
+            width:200px;
+            height: 200px;
+            background-color: aquamarine;
+            border-radius: 20px;
+            margin:20px;
+            animation-name: anim;
+            animation-duration: 50s;
+            animation-iteration-count: infinite;
+            position: relative;
+
+        }
+        @keyframes anim{
+           20% {background-color: chartreuse; left:0px;top:0px;}
+           50% {background-color:blueviolet; left:200px;top:0px;}
+           70% {background-color:chocolate; left:200px;top:200px;}
+           80% {background-color:darkred; left:0px;top:200px;}
+           100% {background-color:lightskyblue; left:0px;top:0px;}
+
+        }
+    </style>
+</head>
+<body>
+    <div align="center">
+        <h2>Welcome all</h2><br><br>
+        <div align="center" id="mybox">
+            
+        </div>
+        
+    </div>
+    
+</body>
+</html>
+
+
+#maindiv>div{
+            background-color: cyan;
+            padding: 10px;
+            margin: 10px;
+            border-radius: 10px;
+            text-align: center;
+            font-family: cursive;
+            color:blue;
+            box-shadow: 5px 5px red;
+
+        }
+
+    </style>
+</head>
+<body>
+    <!-- Grid box -->
+    <div id="maindiv">
+        <div id="Home">Welcome to home page</div>
+        <div id="Aboutus">Data aboutus</div>
+        <div id="Gallery" >View the images</div>
+        <div id="Contactus">Press here!</div>
+        <div id="Workdone">The percentage of work done</div>
+    </div>
+    
+    
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>Document</title>
+    <style>
+        h2{
+            color:#3a5a40;
+            text-transform: capitalize;
+            text-decoration:underline;
+            text-indent: 50px;
+            word-spacing: 50px;
+            line-height: 3;
+            background-image:linear-gradient(120deg,red,yellow,black) ;
+            padding:20px;
+            margin: 20px;
+            border-radius: 20px;
+            
+            box-shadow: 15px 15px 4px 14px brown;
+
+            
+
+        }
+    </style>
+</head>
+<body>
+    <div align="center">
+        <h2>Welcome all</h2>
+        
+    </div>
+    
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>Document</title>
+    <style>
+        h2{
+            color:#3a5a40;
+            text-transform: capitalize;
+            text-decoration:underline;
+            text-indent: 50px;
+            word-spacing: 50px;
+            line-height: 3;
+            background-image:linear-gradient(180deg,red,yellow,black) ;
+            padding:20px;
+            margin: 20px;
+            border-radius: 20px;
+            
+            box-shadow: 15px 15px 4px 14px brown;
+
+            
+
+        }
+    </style>
+</head>
+<body>
+    <div align="center">
+        <h2>Welcome all</h2>
+        
+    </div>
+    
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>Document</title>
+    <style>
+        h2{
+            color:#3a5a40;
+            text-transform: capitalize;
+            text-decoration:underline;
+            text-indent: 50px;
+            word-spacing: 50px;
+            line-height: 3;
+            background-image:linear-gradient(120deg,red,yellow,black) ;
+            padding:20px;
+            margin: 20px;
+            border-radius: 20px;
+            
+            box-shadow: 15px 15px 4px 14px brown;
+
+            
+
+        }
+    </style>
+</head>
+<body>
+    <div align="center">
+        <h2>Welcome all</h2>
+        
+    </div>
+    
+</body>
+</html>
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>Document</title>
+    <style>
+        h2{
+            color:#3a5a40;
+            text-transform: capitalize;
+            text-decoration:underline;
+            text-indent: 50px;
+            word-spacing: 50px;
+            line-height: 3;
+            background-image:linear-gradient(180deg,red,yellow,black) ;
+            padding:20px;
+            margin: 20px;
+            border-radius: 20px;
+            
+            box-shadow: 15px 15px 4px 14px brown;
+
+          
+#mybox{
+            width:200px;
+            height: 200px;
+            background-color: aquamarine;
+            border-radius: 20px;
+            margin:20px;
+            animation-name: anim;
+            animation-duration: 50s;
+            animation-iteration-count: infinite;
+            position: relative;
+
+        }
+        @keyframes anim{
+           20% {background-color: chartreuse; left:0px;top:0px;}
+           50% {background-color:blueviolet; left:200px;top:0px;}
+           70% {background-color:chocolate; left:200px;top:200px;}
+           80% {background-color:darkred; left:0px;top:200px;}
+           100% {background-color:lightskyblue; left:0px;top:0px;}
+
+        }
+    </style>
+</head>
+<body>
+    <div align="center">
+        <h2>Welcome all</h2><br><br>
+        <div align="center" id="mybox">
+            
+        </div>
+        
+    </div>
+    
+</body>
+</html>
+
+
+
+#maindiv>div{
+            background-color: cyan;
+            padding: 10px;
+            margin: 10px;
+            border-radius: 10px;
+            text-align: center;
+            font-family: cursive;
+            color:blue;
+            box-shadow: 5px 5px red;
+
+        }
+
+    </style>
+</head>
+<body>
+    <!-- Grid box -->
+    <div id="maindiv">
+        <div id="Home">Welcome to home page</div>
+        <div id="Aboutus">Data aboutus</div>
+        <div id="Gallery" >View the images</div>
+        <div id="Contactus">Press here!</div>
+        <div id="Workdone">The percentage of work done</div>
+    </div>
+    
+    
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   
+    <title>Document</title>
+    <style>
+        #Home{grid-area: home;}
+        #Aboutus{grid-area: about;}
+        #Gallery{grid-area: gallery;}
+        #Contactus{grid-area: contact;}
+        #Workdone{grid-area: work;}
+
+        #maindiv{
+            display: grid;
+            grid-template-areas: "home home home home home home"
+            "about about about gallery gallery gallery"
+            "contact contact contact work work work";
+            padding:20px;
+            margin:20px;
+            background-color: darkgreen;
+            border-radius: 20px;
+
+        }
+
