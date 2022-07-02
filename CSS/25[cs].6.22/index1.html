@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #HOME{grid-area: home;}
+        #ABOUT{grid-area: about;}
+        #GALLERY{grid-area: gallery;}
+        #CONTACT{grid-area: contact;}
+        #WORK{grid-area: work;}
+
+        #main{
+            display: grid;
+            grid-template-areas: "home home home home home home"
+            "about about about gallery gallery gallery"
+            "contact contact contact work work work";
+            padding: 20px;
+            margin: 20px;
+            background-color: blue;
+            border-radius: 20px;
+            text-align: center;
+        }
+        #main>div{
+            margin: 20px;
+            padding: 20px;
+            background-color: rgb(229, 216, 216);
+            border-radius: 30px;
+            font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            color: black;
+        }
+
+        
+    </style>
+</head>
+<body>
+    <div id="main">
+       <div id="HOME">welcome</div>
+       <div id="ABOUT">data use</div>
+       <div id="GALLERY">photo</div>
+       <div id="CONTACT">about me</div>
+       <div id="WORK">done</div>
+    </div>
+</body>
+</html>

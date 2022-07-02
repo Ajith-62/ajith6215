@@ -1,0 +1,171 @@
+From Vignesh D
+8496966052
+abhijeet singh
+7006625263
+
+
+
+
+From nekarakanti madheswar to Everyone 05:49 PM
+yes
+From ankita soni to Everyone 05:55 PM
+yes
+font is diff
+exactly
+properties without spacing
+From Vignesh D to Everyone 05:55 PM
+license
+From Pinaki Ray to Everyone 05:58 PM
+bootstrap has it's own predefined styles
+for example if we want to make a form...… then by coping the just only form html from bootstrap we will automatically get the css inside it
+From ankita soni to Everyone 05:59 PM
+mam where can we learn about classes of bootstrap
+From nekarakanti madheswar to Everyone 06:02 PM
+bg-primary
+From Aishwarya A to Everyone 06:04 PM
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>Document</title>
+    <!-- CSS only -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" >
+</head>
+<body>
+    <div align="center">
+        <h2>Welcome</h2>
+        <button class="btn btn-success">Hello</button>
+    </div>
+    
+</body>
+</html>
+From Pinaki Ray to Everyone 06:07 PM
+no mam
+From ankita soni to Everyone 06:07 PM
+clear
+From nekarakanti madheswar to Everyone 06:09 PM
+colomn is converted 4
+Me to Pinaki Ray (Direct Message) 06:09 PM
+hi bro
+Me to Vignesh D (Direct Message) 06:11 PM
+hi bro
+From Vignesh D to Me (Direct Message) 06:11 PM
+hey
+Me to Vignesh D (Direct Message) 06:12 PM
+ok
+From Vignesh D to Me (Direct Message) 06:12 PM
+ok?
+From Aishwarya A to Everyone 06:12 PM
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>Document</title>
+    <!-- CSS only -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" >
+</head>
+<body>
+    <div align="center">
+        <h2>Welcome</h2>
+        <button class="btn btn-primary">Hello</button><br><br>
+        <div class="container">
+            <div class="row">
+              <div class="col-2 bg-warning m-2">
+                Column1
+              </div>
+              <div class="col-7 bg-success m-2">
+                Column2
+              </div>
+              <div class="col bg-danger m-2">
+                Column3
+              </div>
+            </div>
+          </div>
+    </div>
+    
+</body>
+</html>
+From Pinaki Ray to Everyone 06:13 PM
+no mam
+Me to Vignesh D (Direct Message) 06:13 PM
+will create groupbro
+From Vignesh D to Me (Direct Message) 06:13 PM
+ya ya sure
+Me to Vignesh D (Direct Message) 06:13 PM
+u number bro
+From Vignesh D to Me (Direct Message) 06:13 PM
+8496966052 vignesh
+Me to Vignesh D (Direct Message) 06:14 PM
+ok bro call u
+From Vignesh D to Me (Direct Message) 06:14 PM
+ya bro fine
+Me to Abhinav Jindal (Direct Message) 06:18 PM
+hi bro
+Me to Abhijeet Singh (Direct Message) 06:20 PM
+hi bro
+From Abhijeet Singh to Me (Direct Message) 06:22 PM
+ha bhai
+Me to Abhijeet Singh (Direct Message) 06:22 PM
+will create group bro
+From ankita soni to Everyone 06:22 PM
+which data base are we going to learn mam
+From 217Y1A6716 to Everyone 06:23 PM
+Mam paste the code please
+From Aishwarya A to Everyone 06:23 PM
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>Document</title>
+    <!-- CSS only -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" >
+</head>
+<body>
+    <div align="center">
+        <h2>Welcome</h2>
+        <button class="btn btn-primary">Hello</button><br><br>
+        <div class="container">
+            <div class="row">
+              <div class="col-lg-2 bg-warning m-2">
+                Column1
+              </div>
+              <div class="col-7 bg-success m-2">
+                Column2
+              </div>
+              <div class="col bg-danger m-2">
+                Column3
+              </div>
+            </div>
+          </div>
+    </div>
+    <br><br>
+    <form>
+        <div class="mb-3">
+          <label for="exampleInputEmail1" class="form-label">Email address</label>
+          <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+          <div id="emailHelp" class="form-text">We'll never s
+<div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+        </div>
+        <div class="mb-3">
+          <label for="exampleInputPassword1" class="form-label">Password</label>
+          <input type="password" class="form-control" id="exampleInputPassword1">
+        </div>
+        <div class="mb-3 form-check">
+          <input type="checkbox" class="form-check-input" id="exampleCheck1">
+          <label class="form-check-label" for="exampleCheck1">Check me out</label>
+        </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+      </form>
+    
+</body>
+</html>
+From Abhijeet Singh to Me (Direct Message) 06:23 PM
+have u talked to any other?
+From narendramali0001@gmail.com to Me (Direct Message) 06:24 PM
+have made any WhatsApp group for the class?
+Me to Abhijeet Singh (Direct Message) 06:24 PM
+yes
+From 221910306057@gitam.in Tanishka to Everyone 06:24 PM
+Please create a group mam
+From gooty sai teja to Everyone 06:24 PM
+how to customize the bootstrap classes?

@@ -1,0 +1,29 @@
+h1{
+    color: rgb(226, 48, 48);
+    text-transform:capitalize;
+    text-decoration:line-through;
+    background-image:linear-gradient(black,yellow,green,blue);
+    padding: 30px;
+    margin: 20px;
+    word-spacing: 20px;
+    line-height: 2;
+    border-radius: 30px;
+    box-shadow: 10px 10px 0 0 rgb(63, 113, 139);
+}
+#circle{
+    width: 200px;
+    height: 200px;
+    background-color: chartreuse;
+    animation-name: text;
+    animation-duration: 3s;
+    animation-iteration-count:infinite;
+    border-radius: 10px;
+    position: relative;
+}
+@keyframes text{
+    20%{ background-color: chartreuse;left:0px;bottom: 20px;right: 10px;top: 30px;}
+    40%{ background-color: rgb(52, 136, 162);left:200px;bottom: 20px;right: 10px;top: 30px;}
+    60%{ background-color: rgb(255, 145, 0);left:0px;bottom: 200px;right: 10px;top: 30px;}
+}
+
+

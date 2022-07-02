@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .Home{grid-area: home;}
+        .About{grid-area: about;}
+        .Gallery{grid-area: gallery;}
+        .Contact{grid-area: contact;}
+        .Work{grid-area: work;}
+
+        #main{
+            display: grid;
+            grid-template-areas: "home home home home home home"
+            "about about about gallery gallery gallery"
+            "contact contact contact work work work";
+            padding: 20px;
+            margin: 20px;
+            background-color: bisque;
+            border-radius: 20px;
+            font-family:Verdana, Geneva, Tahoma, sans-serif;
+            text-align: center;
+        }
+        #main>div{
+            background-color: aquamarine;
+            padding: 10px;
+            margin: 10px;
+            border-radius: 50px;
+            color: brown;
+        }
+    </style>
+</head>
+<body>
+    <div id="main">
+        <div class="Home">Home is an Indian Malayalam-language drama film</div>
+        <div class="About">thinking about you</div>
+        <div class="Gallery">about the room</div>
+        <div class="Contact">floundering about</div>
+        <div class="Work">lot of flu about</div>
+    </div>
+</body>
+</html>

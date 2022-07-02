@@ -1,0 +1,27 @@
+h1{
+    color:rgb(255, 8, 214);
+    text-transform:uppercase;
+    text-decoration: underline;
+    word-spacing: 50px;
+    text-indent: 50px;
+    line-height: 3;
+    background-image: linear-gradient(200deg, red,black,blue,orange);
+    margin: 20px;
+    padding: 20px;
+    border-radius: 30px;
+    box-shadow: 10px 10px 10px 10px rgb(18, 188, 125);
+   }
+#box{
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    border-radius: 20px;
+    margin: 20px;
+    animation-name: one;
+    animation-iteration-count: 4;
+    animation-duration: 3s;
+} 
+@keyframes one{
+    from{background-color: burlywood;}
+    to{background-color: rgb(210, 195, 30);}
+}

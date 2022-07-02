@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    #Home{grid-area: box;}
+    #About{grid-area: test;}
+    #Gallery{grid-area: bowl;}
+    #Blog{grid-area: letter;}
+    #Contact{grid-area: toss;}
+
+    .circle{
+        display:grid;
+        grid-template-areas: "box box box box box box"
+        "test test test bowl bowl bowl"
+        "letter letter letter toss toss toss" ;
+        padding: 20px;
+        margin: 20px;
+        background-color: beige;
+        border-radius: 20px;
+        text-align: center;
+    }
+    .circle>div{
+         background-color: blueviolet;
+         padding: 10px;
+         margin: 10px;
+         border-radius: 15px;
+         box-shadow: 10px 10px red;
+         color: chartreuse;
+         font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+</style>
+<body>
+    <div class="circle">
+        <div id="Home"> Home</div>
+        <div id="About">About</div>
+        <div id="Gallery">Gallery</div>
+        <div id="Blog">Blog</div>
+        <div id="Contact">Contact</div>
+    </div>
+</body>
+</html>

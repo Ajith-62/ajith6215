@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>Document</title>
+    <style>
+        h2{
+            color:#3a5a40;
+            text-transform: capitalize;
+            text-decoration:underline;
+            text-indent: 50px;
+            word-spacing: 50px;
+            line-height: 3;
+            background-image:linear-gradient(180deg,red,yellow,black) ;
+            padding:20px;
+            margin: 20px;
+            border-radius: 20px;
+            
+            box-shadow: 15px 15px 4px 14px brown;
+
+            
+
+        }
+        
+#mybox{
+            width:200px;
+            height: 200px;
+            background-color: aquamarine;
+            border-radius: 20px;
+            margin:20px;
+            animation-name: anim;
+            animation-duration: 50s;
+            animation-iteration-count: infinite;
+            position: relative;
+
+        }
+        @keyframes anim{
+           20% {background-color: chartreuse; left:0px;top:0px;}
+           50% {background-color:blueviolet; left:200px;top:0px;}
+           70% {background-color:chocolate; left:200px;top:200px;}
+           80% {background-color:darkred; left:0px;top:200px;}
+           100% {background-color:lightskyblue; left:0px;top:0px;}
+
+        }
+    </style>
+</head>
+<body>
+    <div align="center">
+        <h2>Welcome all</h2><br><br>
+        <div align="center" id="mybox">
+            
+        </div>
+        
+    </div>
+    
+</body>
+</html>
